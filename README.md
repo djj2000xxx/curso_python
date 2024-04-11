@@ -13,7 +13,7 @@ python3 main.py
 ```sh
 git clone
 cd app
-source my_space/bin/activate
+source my-space/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
 
